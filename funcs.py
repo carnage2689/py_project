@@ -5,3 +5,9 @@ def addition():
     print(c)
 
 addition()
+
+def subtraction():
+    f = 4
+    g = 3
+    h = f - g
+    print(g)
