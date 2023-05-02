@@ -4,10 +4,10 @@ def addition():
     c = a + b
     print(c)
 
-addition()
 
 def subtraction():
     f = 4
     g = 3
     h = f - g
-    print(g)
+    print(h)
+
